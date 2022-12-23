@@ -1,0 +1,2 @@
+# EmojiTranslatorReactApp
+Created with CodeSandbox
