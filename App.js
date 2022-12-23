@@ -9,7 +9,13 @@ const emojiDictonary = {
   "😒": " stares differently",
   "😘": " kiss with love",
   "😁": "Laugh",
-  "👍": " Okay "
+  "👍": " Okay ",
+  "😍": "lovely",
+  "🤗": " Hugging Face",
+  "🤐": "Zipper mouth face",
+  "🤪": "Zany Face",
+  "😟": "Worried Face",
+  "😤": "Face with steam from nose"
 };
 
 var emojis = Object.keys(emojiDictonary);
